@@ -39,28 +39,28 @@ h1, h2, h3, h4, p{
     width: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("image/box1.jpg");
+    background-image: url("box1.jpg");
     background-size: cover;
 }
 #happy:hover{
-    background-image: url("image/happy.webp");
+    background-image: url("happy.webp");
 }
 #badass:hover{
     background-position: center;
-    background-image: url("image/badass.webp");
+    background-image: url("badass.webp");
 }
 #hot:hover{
-    background-image: url("image/hot.webp");
+    background-image: url("hot.webp");
 }
 #genius:hover{
-    background-image: url("image/genius.webp");
+    background-image: url("genius.webp");
 }
 #cheers{
     background-position: 0% 45%;
     height: 200px;
 }
 #cheers:hover{
-    background-image: url("image/cheers.webp");
+    background-image: url("cheers.webp");
 }
 #footer{
     margin: 100px 0 0 0;
